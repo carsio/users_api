@@ -3,7 +3,6 @@ import InMemoryRepositoryFactory from "./infra/factory/InMemoryRepositoryFactory
 import UsecaseFactory from "./infra/factory/UsecaseFactory";
 import AxiosAdapter from "./infra/http/AxiosAdapter";
 import ExpressAdapter from "./infra/http/ExpressAdpter";
-import InMemoryAddressRepository from "./infra/repository/InMemoryAddressRepository";
 import UserController from "./presentation/controllers/UserController";
 
 
